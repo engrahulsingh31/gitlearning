@@ -8,3 +8,5 @@ const footer ="footer added"
 console.log(footer)
 
 console.log("latest update")
+
+console.log("bug fix")
